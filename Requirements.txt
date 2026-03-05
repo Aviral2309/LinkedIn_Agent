@@ -1,5 +1,5 @@
-dotenv
-openAI
+python-dotenv
+openai
 requests
 pypdf
 gradio
