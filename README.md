@@ -1,3 +1,9 @@
+---
+title: career_conversation
+app_file: app.py
+sdk: gradio
+sdk_version: 6.8.0
+---
 # Personal AI Website Assistant (Gemini + Gradio + Tool Calling)
 
 An **Agentic AI chatbot** that acts as a personal assistant for your website.
